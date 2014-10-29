@@ -6,6 +6,8 @@ I've joined [Predawn](https://github.com/jamiewilson/predawn) and [Flatland](htt
 
 Manually download it from here: https://github.com/nikoloza/Custom-Sublime-Look/archive/master.zip
 
+Open `Preferences > Browse Packages...` and put `Predawn - Flatland` folder there.
+
 
 Recommended preferences can be found here:  [`Preferences.sublime-settings`](https://github.com/nikoloza/Custom-Sublime-Look/blob/master/Preferences.sublime-settings)
 
