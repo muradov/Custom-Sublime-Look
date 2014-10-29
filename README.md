@@ -1,7 +1,7 @@
 Customized Sublime Look and Preferences
 -------------
 
-I've joined [Predawn](https://github.com/jamiewilson/predawn) and [Flatland](https://github.com/thinkpixellab/flatland) themes into one customised theme and got this:
+I've mixed [Predawn](https://github.com/jamiewilson/predawn) and [Flatland](https://github.com/thinkpixellab/flatland) themes into one customised theme and got this:
 ![Predawn - Flatland](http://f.cl.ly/items/3I2g2f3g3G282i2X1A2F/lTclJZws4ezepQjqLk3cgwbmZfO4sb3rUA8POGhOlD0.png)
 
 Manually download it from here: https://github.com/nikoloza/Custom-Sublime-Look/archive/master.zip
@@ -24,7 +24,23 @@ Paste it into your `Preferences > Settings - User`
 
 ### Recommended packages:
 
+Syntax highlighs:
+* [HTML5](https://sublime.wbond.net/packages/HTML5)
+* [CSS3](https://sublime.wbond.net/browse/authors/y0ssar1an)
+* [Less](https://sublime.wbond.net/packages/LESS)
+* [Jade](https://sublime.wbond.net/packages/Jade)
+* [SASS](https://sublime.wbond.net/packages/Sass)
+* [SCSS](https://sublime.wbond.net/packages/SCSS)
+* [Better CoffeeScript](https://sublime.wbond.net/packages/Better%20CoffeeScript)
+
+Must have tools:
 * [HTML-CSS-JS Prettify](https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify)
 * [Emmet](https://sublime.wbond.net/packages/Emmet)
-* [GitGutter](https://sublime.wbond.net/packages/GitGutter)
 * [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
+
+Another great tools you could have:
+* [GitGutter](https://sublime.wbond.net/packages/GitGutter)
+* [Alignment](https://sublime.wbond.net/packages/Alignment)
+* [AutoPrefixer](https://github.com/sindresorhus/sublime-autoprefixer)
+* [ColorPicker](https://sublime.wbond.net/packages/ColorPicker)
+* [Markdown Preview](https://sublime.wbond.net/packages/Markdown%20Preview)
