@@ -39,6 +39,7 @@ Must have tools:
 * [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
 
 Another great tools you could have:
+* [JSHint Gutter](https://packagecontrol.io/packages/JSHint%20Gutter)
 * [GitGutter](https://sublime.wbond.net/packages/GitGutter)
 * [Alignment](https://sublime.wbond.net/packages/Alignment)
 * [AutoPrefixer](https://github.com/sindresorhus/sublime-autoprefixer)
